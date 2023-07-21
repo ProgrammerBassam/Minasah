@@ -1,10 +1,10 @@
 <?php
   // Variables
   return [
-    "creatorName" => "ThemeSelection",
-    "creatorUrl" => "https://themeselection.com",
-    "templateName" => "Sneat",
-    "templateSuffix" => "Bootstrap 5 HTML Admin Template - Pro",
+    "creatorName" => "Munasah",
+    "creatorUrl" => "https://Munasah.com",
+    "templateName" => "Munasah",
+    "templateSuffix" => "IT Documentation",
     "templateVersion" => "1.0.0",
     "templateFree" => false,
     "templateDescription" => "Most Powerful & Comprehensive Bootstrap 5 HTML Admin Dashboard Template built for developers!",

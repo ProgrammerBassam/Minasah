@@ -7,10 +7,10 @@
       "slug": "pages-home"
     },
     {
-      "url": "/organizations",
+      "url": "/clients",
       "icon": "menu-icon tf-icons bx bx-category",
-      "name": "Organizations",
-      "slug": "organizations"
+      "name": "Clients",
+      "slug": "clients"
     }
   ]
 }

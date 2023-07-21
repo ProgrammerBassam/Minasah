@@ -28,7 +28,7 @@ Route::middleware([
     Route::get('/', $this->controller_path . '\pages\HomePage@index')->name('pages-home');
 
     // Organizations
-    Route::get('/organizations', $this->controller_path . '\organizations\OrganizationController@index')->name('organizations');
+    Route::get('/clients', $this->controller_path . '\clients\ClientController@index')->name('clients');
 
     /*Route::get('/page-2', $this->controller_path . '\pages\Page2@index')->name('pages-page-2');
 

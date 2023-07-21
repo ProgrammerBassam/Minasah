@@ -23,7 +23,7 @@ var __webpack_exports__ = {};
 // Datatable (jquery)
 $(function () {
   // Variable declaration for table
-  var dt_user_table = $('.datatables-users'),
+  var dt_user_table = $('.datatables-clients'),
     select2 = $('.select2'),
     userView = baseUrl + 'app/user/view/account',
     offCanvasForm = $('#offcanvasAddUser');

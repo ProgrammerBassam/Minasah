@@ -6,7 +6,7 @@
 
 // Datatable (jquery)
 $(function () {
-  var dtUserTable = $('.datatables-users'),
+  var dtUserTable = $('.datatables-clients'),
     statusObj = {
       1: { title: 'Pending', class: 'bg-label-warning' },
       2: { title: 'Active', class: 'bg-label-success' },

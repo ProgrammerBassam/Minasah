@@ -85,33 +85,6 @@ $customizerHidden = 'customizer-hide';
           </div>
           <button class="btn btn-primary d-grid w-100" type="submit">Sign in</button>
         </form>
-
-        <p class="text-center">
-          <span>New on our platform?</span>
-          @if (Route::has('register'))
-          <a href="{{ route('register') }}">
-            <span>Create an account</span>
-          </a>
-          @endif
-        </p>
-
-        <div class="divider my-4">
-          <div class="divider-text">or</div>
-        </div>
-
-        <div class="d-flex justify-content-center">
-          <a href="javascript:;" class="btn btn-icon btn-label-facebook me-3">
-            <i class="tf-icons bx bxl-facebook"></i>
-          </a>
-
-          <a href="javascript:;" class="btn btn-icon btn-label-google-plus me-3">
-            <i class="tf-icons bx bxl-google-plus"></i>
-          </a>
-
-          <a href="javascript:;" class="btn btn-icon btn-label-twitter">
-            <i class="tf-icons bx bxl-twitter"></i>
-          </a>
-        </div>
       </div>
     </div>
     <!-- /Login -->
